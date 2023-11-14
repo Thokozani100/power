@@ -1,0 +1,4 @@
+python -m pip install pathlib
+python -m install openpyxl
+python -m pip install xlrd 
+python -m pip install pillow
